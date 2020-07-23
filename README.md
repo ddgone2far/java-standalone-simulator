@@ -9,4 +9,4 @@ You can choose to run in IDE(Eclipse) or run as standalone
 
 -> Run as standalone
 1. Use maven to package -> mvn clean install
-2. from where the jar package is, run command: java -jar <jar-name>.jar <port>
+2. from where the jar package is, run command: java -jar (jar-name).jar (port: 8088)
